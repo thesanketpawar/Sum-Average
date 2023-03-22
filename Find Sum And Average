@@ -1,0 +1,8 @@
+x=int(input('Enter Number x: '))
+y=int(input('Enter Number y: '))
+z=int(input('Enter Number z: '))
+
+total=x+y+z
+print('The Total of 3 Variable is: ',total)
+average=total
+print("The average of total is: ",average/3)
